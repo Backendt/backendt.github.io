@@ -16,7 +16,7 @@ timezone: Europe/Paris
 
 title: Matisse B. # the main title
 
-tagline: AppSec Engineer & Web dev # it will display as the sub-title
+tagline: Application Security & Web Development # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A cybersecurity blog containing CTF writeups, vulnerability researches and custom exploit scripts.
