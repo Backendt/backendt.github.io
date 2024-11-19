@@ -14,12 +14,12 @@ timezone: Europe/Paris
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Matisse B. # the main title
+title: Matisse Beckandt # the main title
 
-tagline: Application Security & Web Development # it will display as the sub-title
+tagline: Application Security & Web Development Blog # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A cybersecurity blog containing CTF writeups, vulnerability researches and custom exploit scripts.
+  A cybersecurity blog containing CTF writeups, vulnerability researches, custom exploit scripts and more.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
